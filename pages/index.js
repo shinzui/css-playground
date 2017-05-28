@@ -16,5 +16,10 @@ export default () => (
         <a>Headers</a>
       </Link>
     </Section>
+    <Section>
+      <Link href="quotes">
+        <a>Quotes</a>
+      </Link>
+    </Section>
   </Layout>
 )
